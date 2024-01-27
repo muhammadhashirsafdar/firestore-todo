@@ -1,0 +1,54 @@
+body{
+    /* background-color:rgba(255,255,242); */
+    /* background-color: rgba(234,255,123); */
+    /* background-image: url(https://images.unsplash.com/photo-1577226223550-3ded0358e870?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTh8fHBlbmNpbCUyMHNrZXRjaHxlbnwwfHwwfHx8MA%3D%3D );
+    background-repeat: no-repeat;
+    background-size: cover; */
+    font-size: 28px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+
+/* input and buttons css */
+#object-input{
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 7px 17px;
+    font-size: 22px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#add-object-btn{
+    border: 1px solid black;
+    border-radius: 7px;
+    font-size: 20px;
+    padding: 6px 16px;
+    cursor: pointer;
+    background-color:lawngreen;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#add-object-btn:hover{
+    background-color: rgba(7, 167, 7, 0.857);
+}
+
+/* #object-list{
+    color: aliceblue;
+} */
+
+.box{
+    background-color:aliceblue;
+    margin: 140px 140px;
+    border: 2px solid black;
+    border-radius: 120px;
+    
+}
+
+.can{
+    margin-left: 380px;
+    margin-top: 70px;
+}
